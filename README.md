@@ -21,11 +21,14 @@ Project Title:
 Health Bot
 
 Problem Statement/Opportunity*:
-Health bot contains a built-in medical database including triage protocols.
-We can also extend a health bot instance to include our own scenarios and integrate with other IT system and data source.
-Integration with Language Understanding Intelligent Service(LUIS) and other cognitive services.
-An interactive symptom checker and medical database are built in to the Health Bot Service.
-It has the highest standards of privacy and security.
+Our symptom checker takes just a few minutes to complete and it is completely anonymous.
+Our symptom checker utilizes sophisticated natural language processing software that is applied to medical database of disease imformation consisting of thousands of different health conditions.
+The combination of symptoms and health and imformation is analayzed by an enhanced machine learning modle that produces a list of possible matching conditions such as the flu or many other aliments.You can then research those conditions and locate conditions and locate doctors to help diagnose and treat them.
+This symptom checker now includes the ability to select symptoms by body location.
+The patients can easily identify the disease by just imputing their issues and the software generates what disease he/she may be infected from. 
+The system will prove helpful in urgent cases where the patient is unable to reach hospital or in cases when there are no 
+doctors available in the area.
+
 
 Project Description*:
 Opportunity: The Health Bot Service is a cloud platform that empowers developers in Healthcare organization. An interactive symptom checker and medical database are built in to the Health Bot Service and the bot helps the user to understand it and suggests how to react. Together, they enable meaningful conversation with patient using both common language and medical term. Conversational intelligence also adapts dynamically as the health bot instance learn from previous interactions. The Bot can also recommend the appropriate type of doctor to treat an illness. Health Bot Service has the ability to scale with resilience ,while maintaining the highest standards of privacy and security. Each health bot  instance is easily managed and monitored by Microsoft partners via the Health Bot Service's management portal and management API. 
