@@ -29,7 +29,17 @@ It has the highest standards of privacy and security.
 
 
 Project Description*:
-Opportunity:The Health Bot Service is a cloud platform that empowers developers in Healthcare organization. An interactive symptom checker and medical database are built in to the Health Bot Service and the bot helps the user to understand it and suggests how to react. Together, they enable meaningful conversation with patient using both common language and medical term. Conversational intelligence also adapts dynamically as the health bot instance learn from previous interactions. The Bot can also recommend the appropriate type of doctor to treat an illness. Health Bot Service has the ability to scale with resilience ,while maintaining the highest standards of privacy and security. Each health bot  instance is easily managed and monitored by Microsoft partners via the Health Bot Service's management portal and management API.
+Opportunity:The Health Bot Service is a cloud platform that empowers developers in Healthcare organization. An interactive symptom checker and medical database are built in to the Health Bot Service and the bot helps the user to understand it and suggests how to react. Together, they enable meaningful conversation with patient using both common language and medical term. Conversational intelligence also adapts dynamically as the health bot instance learn from previous interactions.I have created the bot to deal with patient day-to-day healthcare problems and help them in covid-19 assessment. Mainly I am trying to build an interactive bot where the patient can go and interact with the health-bot. The Bot can also recommend the appropriate type of doctor to treat an illness.The user can choose from the 4 services that the bot has. On choosing the services like “Covid-19”, “File an insurance claim” and “Provider lookup”, the bot will take inputs from the user and resolve the respective problem. This eliminates the immediate need for a consultant or contacting an employee from the hospitals etc. Health Bot Service has the ability to scale with resilience ,while maintaining the highest standards of privacy and security. Each health bot  instance is easily managed and monitored by Microsoft partners via the Health Bot Service's management portal and management API.
+
+Deployment Steps:
+
+1. First i built a health bot using the azure healthbot services.
+2. Then i created some custom scenarios of my own within the bot , to make the bot run according to my purpose.
+3. Next, i joined all of the different scenarios under one to ake the work easierm.
+4. I made the hospital Check-in service within the bot using the SQL Database and Logic Apps(by creting the post and get workflows).
+5. Then i deployed my heathbot using a custom template in the azure app services.
+
+Primary Azure Technology*: Health Bot, Azure SQL Database, Logic Apps
 
 
 And Hope you guys Love it
