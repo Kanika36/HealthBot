@@ -2,7 +2,7 @@
 
 A simple web page that allows users to communicate with the [Azure Health Bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/) through a WebChat.
 https://kanika36.github.io/HealthBot/ 
-demo bot link: https://screeningbarstorage.z29.web.core.windows.net/
+demo bot link: https://healthcare-bot-2cwwv42ptt3lq.azurewebsites.net
 
 Hello All,
 
@@ -21,17 +21,15 @@ Project Title:
 Health Bot
 
 Problem Statement/Opportunity*:
-Our symptom checker takes just a few minutes to complete and it is completely anonymous.
-Our symptom checker utilizes sophisticated natural language processing software that is applied to medical database of disease imformation consisting of thousands of different health conditions.
-The combination of symptoms and health and imformation is analayzed by an enhanced machine learning modle that produces a list of possible matching conditions such as the flu or many other aliments.You can then research those conditions and locate conditions and locate doctors to help diagnose and treat them.
-This symptom checker now includes the ability to select symptoms by body location.
-The patients can easily identify the disease by just imputing their issues and the software generates what disease he/she may be infected from. 
-The system will prove helpful in urgent cases where the patient is unable to reach hospital or in cases when there are no 
-doctors available in the area.
+Health bot contains a built-in medical database including triage protocols.
+We can also extend a health bot instance to include our own scenarios and integrate with other IT system and data source.
+Integration with Language Understanding Intelligent Service(LUIS) and other cognitive services.
+An interactive symptom checker and medical database are built in to the Health Bot Service.
+It has the highest standards of privacy and security.
 
 
 Project Description*:
-Opportunity: This symptom checker now includes the ability to select symptoms by body location. The tool also allows you to select multiple symptoms quickly. Patient will specify the symptoms caused due to his illness. System will ask certain question regarding his illness and system predict the disease based on the symptoms specified by the patient and by using efficient data. Our symptom checker takes just a few minutes to complete and it is completely anonymous. You will be asked to enter all of your symptoms and some basic health information. Our symptom checker utilizes sophisticated natural language processing software that is applied to medical database of disease imformation consisting of thousands of different health conditions.You will be asked to enter our symptoms using everyday language. The combination of symptoms and health and imformation is analayzed by an enhanced machine learning modle that produces a list of possible matching conditions such as the flu or many other aliments.You can then research those conditions and locate conditions and locate doctors to help diagnose and treat them. The patients can easily identify the disease by just imputing their issues and the software generates what disease he/she may be infected from. The system will prove helpful in urgent cases where the patient is unable to reach hospital or in cases when there are no doctors available in the area.
+Opportunity:The Health Bot Service is a cloud platform that empowers developers in Healthcare organization. An interactive symptom checker and medical database are built in to the Health Bot Service and the bot helps the user to understand it and suggests how to react. Together, they enable meaningful conversation with patient using both common language and medical term. Conversational intelligence also adapts dynamically as the health bot instance learn from previous interactions. The Bot can also recommend the appropriate type of doctor to treat an illness. Health Bot Service has the ability to scale with resilience ,while maintaining the highest standards of privacy and security. Each health bot  instance is easily managed and monitored by Microsoft partners via the Health Bot Service's management portal and management API.
 
 
 And Hope you guys Love it
