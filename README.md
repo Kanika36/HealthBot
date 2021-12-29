@@ -36,7 +36,7 @@ Deployment Steps:
 1. First i built a health bot using the azure healthbot services.
 2. Then i created some custom scenarios of my own within the bot , to make the bot run according to my purpose.
 3. Next, i joined all of the different scenarios under one to ake the work easierm.
-4. I made the hospital Check-in service within the bot using the SQL Database and Logic Apps(by creting the post and get workflows).
+4. I made the hospital Check-in service within the bot using the SQL Database and Logic Apps(by creating the post and get workflows).
 5. Then i deployed my heathbot using a custom template in the azure app services.
 
 Primary Azure Technology*: Health Bot, Azure SQL Database, Logic Apps
