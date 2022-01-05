@@ -44,5 +44,6 @@ Primary Azure Technology*: Health Bot, Azure SQL Database, Logic Apps
 
 And Hope you guys Love it
 Thankyou all 
+
 ![Azure poral1](https://user-images.githubusercontent.com/91495338/147576033-a5d18941-62c6-42d0-994e-371e3e3cc947.JPG)
 ![Azure portal2](https://user-images.githubusercontent.com/91495338/147576042-c68f74a0-7cf4-47e7-a4f4-7437983f4d9e.JPG)
