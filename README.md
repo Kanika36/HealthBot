@@ -17,7 +17,7 @@ This is my First Health Bot App I tried my level best to manage the Scalability.
 
 
 
- Demo Video:-
+ DEMO VIDEO:-
 
 https://user-images.githubusercontent.com/91495338/152352748-d9ae0c29-7e80-471c-b03a-5b1dacf79975.mp4
 
