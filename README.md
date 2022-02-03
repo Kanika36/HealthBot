@@ -14,7 +14,7 @@ Hello All,
 Future ready talent Internship project
 This is my First Health Bot App I tried my level best to manage the Scalability.A simple web page that allows users to communicate with the [Azure Health Bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/) through a WebChat.
 
-Demo Video link:https://user-images.githubusercontent.com/91495338/152352955-6780a6b6-ab7b-4098-98eb-4aede03613a5.mp4
+Demo Video:-
 
 https://user-images.githubusercontent.com/91495338/152352748-d9ae0c29-7e80-471c-b03a-5b1dacf79975.mp4
 
@@ -53,12 +53,4 @@ Thankyou all
 
 ![Azure poral1](https://user-images.githubusercontent.com/91495338/147576033-a5d18941-62c6-42d0-994e-371e3e3cc947.JPG)
 ![Azure portal2](https://user-images.githubusercontent.com/91495338/147576042-c68f74a0-7cf4-47e7-a4f4-7437983f4d9e.JPG)
-
-
-https://user-images.githubusercontent.com/91495338/152352927-a5db966d-a153-4080-8a99-8d396f21a557.mp4
-
-
-
-
-
 
