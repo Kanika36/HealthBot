@@ -26,12 +26,7 @@ Health
 Project Title:
 Health Bot
 
-Problem Statement/Opportunity*:
-Health bot contains a built-in medical database including triage protocols.
-We can also extend a health bot instance to include our own scenarios and integrate with other IT system and data source.
-Integration with Language Understanding Intelligent Service(LUIS) and other cognitive services.
-An interactive symptom checker and medical database are built in to the Health Bot Service.
-It has the highest standards of privacy and security.
+Problem Statement/Opportunity*:- My project mainly targets the healthcare industries. It eliminates the job of a receptionist by allowing the bot to do the work of a receptionist by itself and it will also help the patient to overcome their day-to-day healthcare problems. There will be a health-bot communicating with the patients to know their problems and giving solutions according to that. Patients can access everything at their fingertips and save time and money. This will eliminate the cost of having an employee as a receptionist and for interacting with the patients for their basic problems which can already be answered by the bot.
 
 
 Project Description*:
