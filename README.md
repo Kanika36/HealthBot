@@ -12,6 +12,7 @@ Hello All,
 A simple web page that allows users to communicate with the [Azure Health Bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/) through a WebChat.
 https://github.com/Kanika36/HealthBot-project 
 demo bot link: https://healthcare-bot-2cwwv42ptt3lq.azurewebsites.net
+
 Since my Azure credits have been expired, Demo video is given below
 
  DEMO VIDEO:-
@@ -20,9 +21,7 @@ https://user-images.githubusercontent.com/91495338/152352748-d9ae0c29-7e80-471c-
 
 
 Future ready talent Internship project
-This is my First Health Bot App I tried my level best to manage the Scalability.A simple web page that allows users to communicate with the [Azure Health Bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/) through a WebChat.
-
-
+This is my First Health Bot App I tried my level best to manage the Scalability.A simple web page that allows users to communicate with the [Azure Health Bot]
 
 
 Industry:
